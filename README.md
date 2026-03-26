@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Jumoke Ogunremi
 
-<!--
-**Jmkjosh/JmkJosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a GIS graduate student at Western Illinois University with interests in environmental health, water research, and spatial analysis for real-world problem solving.
 
-Here are some ideas to get you started:
+## Research Interests
+- Water scarcity and human health
+- Freshwater contaminants
+- Groundwater Remediation
+- Environmental GIS
+- Public health applications of spatial analysis
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools and Skills
+- ArcGIS Pro
+- AutoCAD
+- GIS mapping and spatial analysis
+- GPS/GNSS data collection
+- ArcGIS Field Maps
+- Python geoprocessing workflows
+- Excel and geodatabases
+
+## Current and Recent Work
+- School evacuation mapping for IL911
+- Water monitoring and chloride watch
+- Research on water scarcity and health in North-Western Nigeria
+
+## Education
+- M.S. in Geographic Information Science, Western Illinois University
+- B.Sc. in Geology, University of Ilorin
+
+## Connect with Me
+- LinkedIn: [[Add your link here](https://www.linkedin.com/in/jumoke-ogunremi-2921b0160/)]
